@@ -1,12 +1,12 @@
 {
-  "FBMods": {
+  "FAHAD": {
     "update_code": "3",
     "reminder_time": "1",
-    "update_version": "V9.50",
-    "com.instagram.android": "https://t.me/alblany",
-    "com.FBInsta.android": "https://t.me/alblany",
+    "update_version": "V9.00",
+    "com.instagram.android": "https://watsbgold.app/insta-plus-gold",
+    "com.FBInsta.android": "https://watsbgold.app/insta-plus-gold",
     "update_message": "
-<p>Update Vتحديث 9.50</p>
+<p>Update Vتحديث 9.00</p>
 <li>التحديث الأساسي: 325.0.0.35.91</li>
 <li>إصلاح مشكلة التعطل عند فتح المحادثات الجماعية</li>
 <li>إصلاح موقع زر الإرسال</li>
